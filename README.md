@@ -1,3 +1,12 @@
+> **存档说明（本仓库自用，非官方）**
+>
+> 这里是 SnowLuma 的个人存档副本。原仓库 `github.com/SnowLuma/SnowLuma` 已经不可访问（404），
+> 官方文档站 snowluma.github.io 也已下线，代码取自现存镜像 `TomyJan/SnowLuma`，原有的提交历史完整保留。
+>
+> 本仓库只作保存与自行维护之用，不再对外分发或用于商业用途。代码与文档的版权、许可归原作者所有；
+> 如果原作者或权利方要求，请告知，会立即删除。
+
+---
 # SnowLuma<picture><img align="right" src="./assets/readme/mascot.png" width="34%" alt="" /></picture>
 
 **让 QQ 原生会话，连接你的应用。**
