@@ -21,3 +21,9 @@ logs/
 
 # test coverage output
 coverage/
+# 本地运行产生的，不进仓库
+data/
+logs/
+*.log
+.env
+.DS_Store
